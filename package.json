@@ -1,0 +1,9 @@
+{
+  "name": "ExoMars",
+  "version": "1.0.0",
+  "description": "Simple game which utilises an acceleration sensor for steering.",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-webserver": "~0.9.1"
+  }
+}
